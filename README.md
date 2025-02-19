@@ -33,11 +33,6 @@ gh repo clone nailasuely/task08-adc
 
 - [📌 Requisitos](#-requisitos)
 - [🔧 Componentes Utilizados](#-componentes-utilizados)
-- [📂 Estrutura do Projeto](#-estrutura-do-projeto)
-- [📝 Respostas às Perguntas](#-respostas-às-perguntas)
-- [🚀 Como Executar](#-como-executar)
-  - [✅ Pré-requisitos](#-pré-requisitos)
-  - [📌 Passos para Execução](#-passos-para-execução)
 - [🎥 Vídeo de Demonstração](#-vídeo-de-demonstração)
 - [👩‍💻 Autora](#-autora)
 - [📚 Referências](#-referências)
