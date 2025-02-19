@@ -44,7 +44,6 @@ gh repo clone nailasuely/task08-adc
 ✅ **Controle de LEDs via PWM:** Brilho ajustado conforme a posição do joystick.  
 ✅ **Exibição gráfica no display SSD1306:** Quadrado móvel representando o joystick.  
 ✅ **Integração via protocolo I2C:** Comunicação eficiente com o display.  
-✅ **Código organizado e bem comentado:** Facilita a manutenção e compreensão.  
 
 ![---](https://github.com/nailasuely/task05-clock/blob/main/src/prancheta.png)
 
