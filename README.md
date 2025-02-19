@@ -64,7 +64,7 @@ gh repo clone nailasuely/task08-adc
 ![---](https://github.com/nailasuely/task05-clock/blob/main/src/prancheta.png)
 
 ## 🎥 Vídeo de Demonstração
-[Link do vídeo completo]
+[Link do vídeo completo]()
 
 ## 👩‍💻 Autora
 
@@ -83,7 +83,7 @@ gh repo clone nailasuely/task08-adc
 
 ## 📚 Referências
 - [Projeto PWM IRQ - Professor Ricardo Prates](https://github.com/rmprates84/pwm_irq)
-- [EmbarcaTech U4C6 - Repositório do Professor Wilton Lacerda Silva](https://github.com/wiltonlacerda/EmbarcaTechU4C8/blob/main/ADC_DisplayEmC_Ex5/ADC_DisplayC.c)
+- [EmbarcaTech U4C8 - Repositório do Professor Wilton Lacerda Silva](https://github.com/wiltonlacerda/EmbarcaTechU4C8)
 - [BitDogLab - Display OLED](https://github.com/BitDogLab/BitDogLab-C/tree/main/display_oled)
 
 
