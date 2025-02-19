@@ -64,7 +64,7 @@ gh repo clone nailasuely/task08-adc
 ![---](https://github.com/nailasuely/task05-clock/blob/main/src/prancheta.png)
 
 ## 🎥 Vídeo de Demonstração
-[Link do vídeo completo]()
+[Link do vídeo completo](https://youtu.be/ynmqqovq_2k)
 
 ## 👩‍💻 Autora
 
