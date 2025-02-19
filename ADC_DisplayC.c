@@ -7,7 +7,6 @@
 #include "lib/ssd1306.h"
 #include "lib/font.h"
 
-
 // configuração inicial do barramento I2C para o display OLED
 #define PORTA_I2C i2c1
 #define SDA 14
@@ -24,12 +23,12 @@
 #define EIXO_VERTICAL 27
 #define BOTAO_JOYSTICK 22
 #define BOTAO_EXTRA 5
+#define BOTAO_BOOTSEL 6
 
 // debounce e atualização do LED
 static volatile uint32_t tempo_ultimo_clique = 0;
 static volatile bool alterarPWM = true; 
 
-#define BOTAO_BOOTSEL 6
 void handler_interrupcao(uint gpio, uint32_t eventos) {
     uint32_t tempo_atual = to_us_since_boot(get_absolute_time());
 
